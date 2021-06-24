@@ -1,0 +1,24 @@
+const initState = {
+  details:{platforms: [] } ,
+  screenshots:{results: [] },
+  isLoading: true
+};
+const detailsReducer = (state = initState, action) => {
+  switch(action.type){
+    case "GET_DETAILS":
+      return ({
+        ...state,
+        details: action.payload.details,
+        screenshots: action.payload.screenshots,
+        isLoading: false
+      });
+      case "LOADING_DETAILS":
+      return({
+        ...state,
+        isLoading: true
+      })
+      default:
+      return {...state};
+  }
+};
+export default detailsReducer;
