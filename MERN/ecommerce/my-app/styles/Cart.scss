@@ -1,0 +1,100 @@
+#cart-summary{
+    display:grid;
+    grid-template-columns: 70% 30%;
+    .cartSubtotal{
+        max-height: 100%;
+    }
+    .purchase-items{
+        max-height: 100%;
+       
+        .purchase-item{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            gap: 5rem;
+            border-bottom: 2px solid turquoise;
+            width: 80%;
+            height:400px;
+            .image-title{
+                width: 50%;
+                height: 100%;
+                img{
+                    height: 80%;
+                    width: 100%;
+                    object-fit: cover;
+                }
+            }
+           
+            .price-quantity{
+                display:flex;
+                flex-direction: row;
+                gap: 10px;
+                div{
+                    height:50px;
+                }
+            }
+        }
+    }
+}
+table{
+    border-collapse: collapse; 
+    width: 80%;
+    position: relative;
+    left: 200px;
+    font-size: 1.5rem;
+    .cart-info{
+        display: flex; 
+        flex-wrap:wrap;
+    }
+    th{
+        text-align: left; 
+        padding: 5px; 
+        color: white;
+        background: tomato;
+        font-weight: normal;
+    }
+    tr{
+            td{
+                padding: 10px 5px;
+                font-size: 1.5rem;
+                input{
+                    width: 40px;
+                    height: 40px;
+                    padding: 5px;
+                    margin-left: 9px;
+                    margin-right: 9px;
+                }
+               
+                .cart-info{
+                    img{
+                        height:200px;
+                        width:200px;
+                        margin-right:5px;
+                    }
+                    div{
+                        span{
+                            color: #ff523b;
+                            font-size:30px;
+                            margin-left: 10px;
+                        }
+                    }
+                
+                }
+             
+            }
+        }
+      
+    }
+    .total-price{
+        display: flex;
+        justify-content: flex-end;
+        width: 40%;
+        position: relative;
+        left: 600px;
+        table{
+            border-top: 2px solid #ff523b;
+            tr{
+                padding-left: 20px;
+            }
+        }
+    }

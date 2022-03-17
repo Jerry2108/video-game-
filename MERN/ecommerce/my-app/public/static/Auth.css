@@ -1,0 +1,2 @@
+.authPage{position:absolute;top:10%;left:20%;height:60%;width:70%;background-color:#7fffd4;border-radius:2%}.authPage h1{text-align:center;padding-top:2rem}.authPage h5{display:inline;padding-left:5%}.authPage a{margin-left:1rem;font-size:larger}.authPage .authInfo{margin-top:2%;display:flex;flex-direction:row;justify-content:space-around}.authPage .authInfo form{width:50%}.authPage .authInfo img{display:inline;height:200px;width:300px;object-fit:cover}
+/*# sourceMappingURL=maps/Auth.css.map */
