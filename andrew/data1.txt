@@ -1,0 +1,3 @@
+Census year,Block ID,Property ID,Base property ID,CLUE small area,Trading name,Industry (ANZSIC4) code,Industry (ANZSIC4) description,x coordinate,y coordinate,Location
+2018,419,104728,104728,West Melbourne (Residential),Hindley & Co,6921,Architectural Services,144.94662,-37.80784,"(-37.80784379, 144.946621)"
+2018,419,104728,104728,West Melbourne (Residential),RARA Architecture,6921,Architectural Services,144.94662,-37.80784,"(-37.80784379, 144.946621)"

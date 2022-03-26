@@ -1,0 +1,356 @@
+AGRI20026 Plant Growth Processes
+AGRI20036 Ecology and Grazing Management
+AGRI20037 Crop Production and Management
+AGRI20038 Principles of Soil Science
+AGRI30003 Agricultural Systems Analysis
+AGRI30016 Irrigation and Water Management
+AGRI30030 Livestock Production Systems
+AGRI30037 Soil Management
+AGRI30042 Plant Pathology
+AGRI30045 Applications in Precision Agriculture
+AGRI30046 Agronomy
+AGRI30048 Plant Breeding and Genetics
+BTCH30002 Trends & Issues in Agrifood Biotech
+ANAT20006 Principles of Human Structure
+ANAT30007 Human Locomotor Systems
+ANAT30008 Viscera and Visceral Systems
+CEDB30003 Developmental Biology
+ANSC20001 Animal Physiology and Growth
+ANSC20005 Companion Animal Biology
+ANSC20002 Comparative Nutrition and Digestion
+ANSC20003 Topics in Animal Health
+ANSC30003 Applied Animal Behaviour
+ANSC30004 Applied Animal Reproduction & Genetics
+ANSC30005 Animal Welfare and Ethics
+ANSC30006 Production Animal Health
+ANSC30007 Managing Production Animal Health
+ANSC30008 Production Animal Physiology
+ANSC30009 Animal Systems Analysis
+BCMB20002 Biochemistry and Molecular Biology
+BCMB20005 Techniques in Molecular Science
+AGRI20043 Biochemistry in Agricultural Systems
+BCMB30001 Protein Structure and Function
+BCMB30002 Functional Genomics and Bioinformatics
+BCMB30003 Molecular Aspects of Cell Biology
+BCMB30004 Cell Signalling and Neurochemistry
+BCMB30010 Advanced Techniques in Molecular Science
+BCMB30011 Cellular Metabolism and Disease
+BCMB30012 Current Advances in Molecular Science
+BIOL10001 Biology of Australian Flora & Fauna
+BIOL10008 Introductory Biology: Life's Machinery
+BIOL10009 Biology: Life's Machinery
+BIOL10010 Introductory Biology: Life's Complexity
+BIOL10011 Biology: Life's Complexity
+BIOL20001 Evolution: Making Sense Of Life
+ERTH20004 Earth's Microbiomes
+MAST20031 Analysis of Biological Data
+BTCH20002 Biotechnology
+BTCH30001 Methods in Agrifood Biotechnology
+BTCH30003 Biotechnology in Practice
+CEDB20003 Fundamentals of Cell Biology
+CEDB30002 Concepts in Cell & Developmental Biology
+CEDB30004 Stem Cells in Development & Regeneration
+CHEM10003 Chemistry 1
+CHEM10004 Chemistry 2
+CHEM10007 Fundamentals of Chemistry
+CHEM10009 Chemistry for BioSciences
+CHEM20011 Environmental Chemistry
+CHEM20018 Chemistry: Reactions and Synthesis
+CHEM20019 Practical Chemistry 2
+CHEM20020 Chemistry: Structure and Properties
+CHEM20026 Principles of Chemical Biology
+CHEM30012 Analytical & Environmental Chemistry
+CHEM30013 Chemical Research Project
+CHEM30014 Specialised Topics in Chemistry B
+CHEM30015 Advanced Practical Chemistry
+CHEM30016 Reactivity and Mechanism
+CHEM30017 Specialised Topics in Chemistry A
+COMP10001 Foundations of Computing
+COMP10002 Foundations of Algorithms
+COMP20003 Algorithms and Data Structures
+COMP20005 Engineering Computation
+COMP20007 Design of Algorithms
+COMP20008 Elements of Data Processing
+COMP30013 Advanced Studies in Computing
+COMP30019 Graphics and Interaction
+COMP30020 Declarative Programming
+COMP30022 IT Project
+COMP30023 Computer Systems
+COMP30026 Models of Computation
+COMP30024 Artificial Intelligence
+COMP30027 Machine Learning
+SWEN20003 Object Oriented Software Development
+SWEN30006 Software Modelling and Design
+SWEN30007 Software Systems Project
+MAST30034 Applied Data Science
+ERTH10002 Understanding Planet Earth
+ERTH10003 Geology For Engineers
+ATOC10001 Wonders Of The Weather
+ATOC20001 Weather and Climate Systems
+ERTH20001 Dangerous Earth
+ERTH20002 Environmental Geosciences
+ERTH20003 Past Climates: Icehouse to Greenhouse
+GEOL20001 Geology of Southeast Australia
+GEOL20002 Structural and Metamorphic Geology
+GEOL20003 Earth Composition, Minerals and Magmas
+GEOL20004 Field Mapping and Sedimentary Geology
+ATOC30003 Atmosphere Ocean Interaction
+ATOC30004 Dynamical Meteorology and Oceanography
+ATOC30006 Modern and Future Climate
+ATOC30008 Atmospheric Processes and Composition
+ERTH30001 Hydrogeolog
+GEOL30002 Tectonics & Geodynamics
+GEOL30003 Sedimentary Geology
+GEOL30004 Geochemistry & Petrogenesis
+GEOL30005 Applied Geophysics
+GEOL30006 Economic Geology
+GEOL30007 Geobiology: Fossils & Environments
+GEOL30009 Advanced Field Geology
+ECOL20003 Ecology
+ECOL30005 Applied Ecology
+ECOL30006 Ecology in Changing Environments
+ENGR10004 Engineering Technology and Society
+ENGR10006 Engineering Modelling and Design
+BMEN20002 Anatomy & Physiology for Bioengineering
+BMEN20003 Applied Computation in Bioengineering
+CHEN20009 Transport Processes
+ELEN20005 Foundations of Electrical Networks
+ENEN20002 Earth Processes for Engineering
+ELEN20006 Digital Systems
+ENGR20003 Engineering Materials
+ENGR20004 Engineering Mechanics
+ENGR20005 Numerical Methods in Engineering
+ENGR30002 Fluid Mechanics
+BMEN30005 Introduction to Biomechanics
+BMEN30006 Circuits and Systems
+BMEN30008 Biosystems Design
+BMEN30009 Introduction to Biomaterials
+BMEN30010 Mechanics for Bioengineering
+CHEN30001 Reactor Engineering
+CHEN30005 Heat and Mass Transport Processes
+CVEN30008 Engineering Risk Analysis
+CVEN30009 Structural Theory and Design
+CVEN30010 Systems Modelling and Design
+ELEN30009 Electrical Network Analysis and Design
+ELEN30010 Digital System Design
+ELEN30011 Electrical Device Modelling
+ELEN30012 Signals and Systems
+ELEN30013 Electronic System Implementation
+MCEN30017 Mechanics & Materials
+MCEN30018 Thermodynamics and Fluid Mechanics
+MCEN30021 Mechanical Systems Design
+CHEN30015 Safety and Sustainability Case Studies
+CHEN20010 Material and Energy Balances
+CHEN20011 Chemical Process Analysis
+ELEN30014 Analog and Digital Electronics Concepts
+MCEN30020 Systems Modelling and Analysis
+ENGR30004 Numerical Algorithms in Engineering
+ENEN30001 Environmental Eng Systems Capstone
+ENEN30002 Intro to Sustainable Water Management
+ENEN30003 Environmental Systems Modelling & Design
+ENVS10001 Natural Environments
+ENVS10006 Mapping Environments
+EVSC20004 Blue Planet-Intro to Marine Environments
+HORT20027 Greening Landscapes
+EVSC30002 Problem Solving in Environmental Science
+EVSC30003 Environmental Risk Assessment
+EVSC30006 Ecology of Urban Landscapes
+ENST20001 Human Behaviour and Environment
+EVSC20005 Contested Resources
+EVSC20006 Energy and the Environment
+EVSC20007 Modelling the Real World
+EVSC30007 Landscape Ecosystem Project
+ENST30003 Green Infrastructure Technologies
+ENST30004 Nature, Conservation and Society
+FOOD20003 Intro to Food Science & Human Nutrition
+FOOD20006 Food Microbiology and Safety
+FOOD30007 Food Processing & Preservation
+FOOD30008 Advanced Food Analysis
+FOOD30009 Food Research & Development
+FOOD30010 Functional Foods
+FRST20015 Fire in the Australian Landscape
+FRST30001 Forest Systems
+FRST30003 Urban Forest Ecosystems
+GENE10001 Genetics in the Media
+GENE20001 Foundations of Genetics and Genomics
+GENE20004 Applications of Genetics and Genomics
+GENE30001 Evolutionary Genetics and Genomics
+GENE30002 Genes: Organisation and Function
+GENE30004 Genetic Analysis
+GENE30005 Human and Medical Genetics
+GEOG10001 Famine: The Geography of Scarcity
+GEOG20001 Society and Environments
+GEOG20002 Landscapes and Environmental Change
+GEOG20003 Environmental Politics and Management
+GEOG20013 Health Geography
+GEOG20015 Environmental Change & the Human Journey
+GEOG20016 Fertility, Mortality and Social Change
+GEOG20017 Spatial Analysis in Geography
+GEOG30001 Geomorphology: Catchment to Coast
+GEOG30007 China Field Class
+GEOG30019 Sustainable Development
+GEOG30021 The Disaster Resilient City
+GEOG30022 Riverine Landscapes: Hydrology & Ecology
+GEOG30023 Global Climate Change in Context
+GEOG30024 Africa: Environment, Development, People
+GEOG30025 Biogeography and Ecology of Fire
+GEOG30026 East Timor Field Class
+GEOG30027 Local Sites, Global Connections
+GEOG30030 Spatial Modelling for Nature and People
+GEOM20013 Applications of GIS
+GEOM20015 Surveying and Mapping
+GEOM30009 Imaging the Environment
+GEOM30012 Integrated Spatial Systems
+GEOM30013 Land Administration Systems
+NUTR20001 Food Nutrition and Health
+NUTR30001 Nutrition Policy and Public Health
+NUTR30002 Monitoring Food and Nutrition Intake
+NUTR30003 Lifestage Nutrition
+NUTR30004 Advanced Topics in Nutrition
+NUTR30005 Molecular Nutrition and Genomics
+INFO20002 Foundations of Informatics
+INFO20003 Database Systems
+INFO30006 Information Security and Privacy
+INFO30005 Web Information Technologies
+SCIE30002 Science and Technology Internship
+MAST10005 Calculus 1
+MAST10006 Calculus 2
+MAST10007 Linear Algebra
+MAST10008 Accelerated Mathematics 1
+MAST10009 Accelerated Mathematics 2
+MAST10010 Data Analysis 1
+MAST10021 Calculus 2: Advanced
+MAST10022 Linear Algebra: Advanced
+MAST20004 Probability
+MAST20005 Statistics
+MAST20006 Probability for Statistics
+MAST20009 Vector Calculus
+MAST20018 Discrete Maths and Operations Research
+MAST20022 Group Theory and Linear Algebra
+MAST20026 Real Analysis
+MAST20029 Engineering Mathematics
+MAST20030 Differential Equations
+MAST20031 Analysis of Biological Data
+MAST20032 Vector Calculus: Advanced
+MAST20033 Real Analysis: Advanced
+MAST30001 Stochastic Modelling
+MAST30005 Algebra
+MAST30011 Graph Theory
+MAST30012 Discrete Mathematics
+MAST30020 Probability for Inference
+MAST30013 Techniques in Operations Research
+MAST30021 Complex Analysis
+MAST30022 Decision Making
+MAST30024 Geometry
+MAST30025 Linear Statistical Models
+MAST30026 Metric and Hilbert Spaces
+MAST30027 Modern Applied Statistics
+MAST30028 Numerical Methods & Scientific Computing
+MAST30030 Applied Mathematical Modelling
+MAST30031 Methods of Mathematical Physics
+MAST30032 Biological Modelling and Simulation
+MAST30033 Statistical Genomics
+MIIM20001 Principles of Microbiology & Immunology
+MIIM20002 Microbes, Infections and Responses
+MIIM30002 Principles of Immunology
+MIIM30003 Medical and Applied Immunology
+MIIM30011 Medical Microbiology: Bacteriology
+MIIM30014 Medical Microbiology: Virology
+MIIM30015 Techniques in Immunology
+MIIM30016 Techniques in Microbiology
+MIIM30017 Medical Microbiology: Parasitology
+MULT20015 Elements of Quantum Computing
+OPTO20004 Perception, Illusions and Art
+NEUR30003 Principles of Neuroscience
+NEUR30004 Complex Functions in Neuroscience
+NEUR30005 Developmental Neurobiology
+OPTO30007 Visual Neuroscience
+NEUR30006 Real and Artificial Neural Networks
+NEUR30007 Auditory Neuroscience
+PATH20001 Exploring Human Disease
+PATH20003 Experimental Pathology
+PATH30001 Mechanisms of Human Disease
+PATH30002 Techniques for Investigation of Disease
+PATH30003 Frontiers in Human Disease
+PATH30004 Advanced Investigation of Human Disease
+PHRM20001 Pharmacology: How Drugs Work
+PHRM30002 Drugs Affecting the Nervous System
+PHRM30003 Drug Treatment of Disease
+PHRM30008 Drugs: From Discovery to Market
+PHRM30009 Drugs in Biomedical Experiments
+PHYC10001 Physics 1: Advanced
+PHYC10002 Physics 2: Advanced
+PHYC10003 Physics 1
+PHYC10004 Physics 2: Physical Science & Technology
+PHYC10006 Physics 2: Life Sciences & Environment
+PHYC10008 From the Solar System to the Cosmos
+PHYC10009 Foundations of Physics
+PHYC20012 Quantum and Thermal Physics
+PHYC20013 Laboratory and Computational Physics 2
+PHYC20014 Theoretical Physics 2
+PHYC20015 Special Relativity and Electromagnetism
+PHYC30011 Sub-atomic Physics
+PHYC30014 Laboratory Work A
+PHYC30015 Laboratory Work B
+PHYC30016 Electrodynamics
+PHYC30017 Statistical Physics
+PHYC30018 Quantum Physics
+PHYC30019 Astrophysics
+PHYC30021 Laboratory and Computational Physics 3
+PHYC30022 Theoretical Physics 3
+PHYC30023 Light, Lasers, Optics
+PHYC30024 Condensed Matter Physics 3
+PHYS20008 Human Physiology
+PHYS20009 Research-Based Physiology
+NEUR30002 Neurophysiology: Neurons and Circuits
+PHYS30009 Experimental Physiology
+PHYS30010 Advanced Human Physiology
+PHYS30011 Clinical and Translational Physiology
+PHYS30012 Physiology: Adapting to Challenges
+BOTA20001 Green Planet: Plants and the Environment
+BOTA20002 Plant Biodiversity
+BOTA20004 Flora of Victoria
+BOTA30001 Marine Botany
+BOTA30002 Plant Evolution
+BOTA30004 Vegetation Management and Conservation
+BOTA30005 Plant Molecular Biology & Biotechnology
+BOTA30006 Field Botany
+PSYC10003 Mind, Brain & Behaviour 1
+PSYC10004 Mind, Brain and Behaviour 2
+PSYC20006 Biological Psychology
+PSYC20007 Cognitive Psychology
+PSYC20008 Developmental Psychology
+PSYC20009 Personality and Social Psychology
+PSYC30012 The Unconscious Mind
+PSYC30013 Research Methods for Human Inquiry
+PSYC30014 The Psychopathology of Everyday Life
+PSYC30016 Lifespan Social & Emotional Development
+PSYC30017 Perception, Memory and Cognition
+PSYC30018 Neuroscience and the Mind
+PSYC30019 Development of the Thinking Child
+PSYC30020 The Integrated Brain
+PSYC30021 Psychological Science: Theory & Practice
+PSYC30022 Trends in Personality& Social Psychology
+ENST30002 Land And Environment Research Project
+SCIE30001 Science Research Project
+BIOM30003 Biomedical Science Research Project
+EVSC10001 The Global Environment
+MULT10011 Introduction to Life, Earth and Universe
+SCIE10004 Human Sciences: From Cells to Societies
+SCIE20001 Thinking Scientifically
+SCIE20002 Human Sciences: Huma
+VETS20019 Frontiers in Veterinary Science
+ANSC30001 Animal Disease Biotechnology 1
+ANSC30002 Animal Disease Biotechnology 2
+VETS30033 Health & Disease in Wildlife Populations
+ZOOL20004 Australian Wildlife Biology
+ZOOL20005 Animal Structure and Function
+ZOOL20006 Comparative Animal Physiology
+BIOL30001 Reproductive Physiology
+BIOL30002 Experimental Reproductive Physiology
+ECOL30007 Marine Ecosystems: Ecology & Management
+ZOOL30004 Evolution and the Human Condition
+ZOOL30006 Animal Behaviour
+ZOOL30007 Experimental Animal Behaviour
+ZOOL30008 Experimental Marine Biology
+ZOOL30009 Tropical Field Ecology
